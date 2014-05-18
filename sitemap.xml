@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://canmurat.github.io/blog/2014/05/18/post-name/</loc>
+        <loc>mehmetcan.github.io/blog/2014/05/18/post-name/</loc>
         <lastmod>2014-05-18T22:09:08+03:00</lastmod>
     </url>
     <url>
-        <loc>http://canmurat.github.io/</loc>
+        <loc>mehmetcan.github.io/</loc>
         <lastmod>2014-05-18T22:09:08+03:00</lastmod>
     </url>
     <url>
-        <loc>http://canmurat.github.io/robots.txt</loc>
+        <loc>mehmetcan.github.io/robots.txt</loc>
         <lastmod>2014-05-18T22:04:09+03:00</lastmod>
     </url>
     <url>
-        <loc>http://canmurat.github.io/blog/archives/</loc>
+        <loc>mehmetcan.github.io/blog/archives/</loc>
         <lastmod>2014-05-18T22:09:08+03:00</lastmod>
     </url>
 </urlset>
