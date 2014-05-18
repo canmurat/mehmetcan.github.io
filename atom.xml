@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[mehmetcan's]]></title>
-  <link href="mehmetcan.github.io/atom.xml" rel="self"/>
-  <link href="mehmetcan.github.io/"/>
-  <updated>2014-05-18T22:16:32+03:00</updated>
-  <id>mehmetcan.github.io/</id>
+  <link href="https://mehmetcan.github.io/atom.xml" rel="self"/>
+  <link href="https://mehmetcan.github.io/"/>
+  <updated>2014-05-18T22:17:30+03:00</updated>
+  <id>https://mehmetcan.github.io/</id>
   <author>
     <name><![CDATA[Mehmet Can Murat]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[At Diyarı]]></title>
-    <link href="mehmetcan.github.io/blog/2014/05/18/post-name/"/>
+    <link href="https://mehmetcan.github.io/blog/2014/05/18/post-name/"/>
     <updated>2014-05-18T22:07:47+03:00</updated>
-    <id>mehmetcan.github.io/blog/2014/05/18/post-name</id>
+    <id>https://mehmetcan.github.io/blog/2014/05/18/post-name</id>
     <content type="html"><![CDATA[<h1>Ben ki mehmet Can Murat..</h1>
 
 <h4>Yanlış anlaşılmasın soyadım murat. Ben de pek sevmiyorum murat diye soyisim mi olur mk..</h4>

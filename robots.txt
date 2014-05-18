@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: mehmetcan.github.io/sitemap.xml 
+Sitemap: https://mehmetcan.github.io/sitemap.xml 
